@@ -4,8 +4,8 @@ Python script to manage S3 buckets in a Nutanix server.
 This repository is still under development. As per curent state, it can be used to:
 
 - Connect to S3 bucket service
-- Upload create bucket
-- upload data to the bucket
+- Create bucket
+- Upload data to the bucket
 
 # Usage
 
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 - Run script
 
 ```bash
-pyton uploadData.py
+python uploadData.py
 ```
 
 # Please edit the scipts if needed.
